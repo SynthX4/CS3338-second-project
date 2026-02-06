@@ -1,0 +1,52 @@
+commit 7fcecb527e96bfcbd5d4db1e33325a32d6c12d4c
+Merge: 3466452 ab7c129
+Author: SynthX4 <xavier3585n@gmail.com>
+Date:   Thu Feb 5 23:47:31 2026 -0800
+
+    Fixed the merge conflict
+
+commit 34664525555307ec8c517aef2d0a20ae1f18bede
+Merge: c438cf3 1aa6e9f
+Author: SynthX4 <xavier3585n@gmail.com>
+Date:   Thu Feb 5 23:40:44 2026 -0800
+
+    Fixed the merge conflict
+
+commit 1aa6e9f5de62ede1ab2b798e0c737d9360d1433c
+Author: SynthX4 <xavier3585n@gmail.com>
+Date:   Thu Feb 5 23:35:58 2026 -0800
+
+    Added my favorite game in index.html
+
+commit c438cf34effe7c0ff713d94f355466f973f8aaa2
+Author: SynthX4 <xavier3585n@gmail.com>
+Date:   Thu Feb 5 23:34:37 2026 -0800
+
+    Added my favorite food in index.html
+
+commit ab7c1292f9de4eba96f0a62b255d7904c19e256c
+Author: SynthX4 <102552230+SynthX4@users.noreply.github.com>
+Date:   Thu Feb 5 23:27:04 2026 -0800
+
+    Create README.md
+
+commit f704853524764085532e39d77bd4dafcc38f89de
+Merge: 1d2bfc0 20a5638
+Author: SynthX4 <102552230+SynthX4@users.noreply.github.com>
+Date:   Thu Feb 5 23:24:19 2026 -0800
+
+    Merge pull request #1 from SynthX4/info-fill
+    
+    Fill in blanks in index.html
+
+commit 20a5638cb4502b87a89f679d1ab6c1c14b8772b0
+Author: SynthX4 <xavier3585n@gmail.com>
+Date:   Thu Feb 5 23:19:17 2026 -0800
+
+    Fill in blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
